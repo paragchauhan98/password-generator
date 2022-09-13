@@ -1,4 +1,5 @@
-# UdemyProject
+# Password Generator
+This project helps generate random passowrd with custom variables such as password including letters, numbers or symbols.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
